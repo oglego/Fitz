@@ -70,14 +70,19 @@ The results help determine:
 For rust we obtained:
 
 Query execution time: 25.528717125s
+
 Data conversion time: 3.66461275s
+
 Parquet write time: 13.579257416s
+
 Total execution time: 42.772587291s
 
 For python we obtained:
 
 Query execution time: 49.33 seconds
+
 Parquet writing time: 4.53 seconds
+
 Total execution time: 53.87 seconds
 
 By total execution time there is a ~23% difference between write times!
