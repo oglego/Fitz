@@ -1,0 +1,9 @@
+[package]
+name = "fitz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mysql = "26.0.0"
+arrow = "54.3.0"
+parquet = "54.3.0"
